@@ -1,0 +1,16 @@
+The File Bert SIA contains the work done on Bert and Sentiment Intensity Analyzer it requires three datasets.
+	1.Gold-data -> Contains the Gold Data and the scraped data
+	2.financial-news-data -> Contains the data containing only the scraped data 
+	3.india-financial-news-headline-sentiments -> Contains the financial news headline data
+
+GRU -> This file contains the GRU for performing the sentiment analysis.
+
+LSTM_Price_Prediction_With_Sentiment_and_indicators-> For Stock Price Prediction using LSTM Comprehensive Notebook.
+For Various Experiments with adding additional market data with closing price and sentiment which moves Reliance stock such as gold price, coal price and petroleum price.
+
+LSTM Sentiment Analysis -> Implemented a LSTM model for sentiment analysis on Financial_News_dataset
+
+LSTM_price_prediction_with_and_without_sentiment -> Implemented a LSTM model for price prediction and multiple experiments including price prediction using only closing price and implementing sentiment with close price.
+
+Web Scraping -> For performing web scraping using Beautiful Soup 
+
